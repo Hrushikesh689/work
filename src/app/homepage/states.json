@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "statename": "Goa",
+    "iconsvg": "../../assets/statesimg/goa.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/goa/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.goa.drmindia"
+  },
+  {
+    "id": 2,
+    "statename": "Arunachal Pradesh",
+    "iconsvg": "../../assets/statesimg/arunachal.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/arunachalpradesh/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.arunachalpradesh.drmindia"
+  },
+  {
+    "id": 3,
+    "statename": "MadyaPradesh",
+    "iconsvg": "../../assets/statesimg/madhyapradesh.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/madyapradesh/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.madhyapradesh.drmindia"
+  },
+  {
+    "id": 4,
+    "statename": "Jharkhand",
+    "iconsvg": "../../assets/statesimg/jahrkhand.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/jharkhand/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.jharkhand.drmindia"
+  },
+  {
+    "id": 5,
+    "statename": "Maharashtra",
+    "iconsvg": "../../assets/statesimg/maharashtra.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/maharashtra/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.maharashtra.drmindia"
+  },
+  {
+    "id": 6,
+    "statename": "Nagaland",
+    "iconsvg": "../../assets/statesimg/nagaland.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/nagaland/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.nagaland.drmindia"
+  },
+  {
+    "id": 7,
+    "statename": "AndhraPradesh",
+    "iconsvg": "../../assets/statesimg/andhra.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/andhrapradesh/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.andhrapradesh.drmindia"
+  },
+  {
+    "id": 8,
+    "statename": "Chhattisgarh",
+    "iconsvg": "../../assets/statesimg/chattisgarh.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/chhattisgarh/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.chhattisgarh.drmindia"
+  },
+  {
+    "id": 9,
+    "statename": "Rajasthan",
+    "iconsvg": "../../assets/statesimg/rajasthan.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/rajasthan/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.rajasthan.drmindia"
+  },
+  {
+    "id": 10,
+    "statename": "JammuKashmir",
+    "iconsvg": "../../assets/statesimg/jammu.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/jammukashmir/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.jammukandkashmir.drmindia"
+  },
+  {
+    "id": 11,
+    "statename": "himachalpradesh",
+    "iconsvg": "../../assets/statesimg/himachal.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/himachalpradesh/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.himachalPradesh.drmindia"
+  },
+  {
+    "id": 12,
+    "statename": "Mizoram",
+    "iconsvg": "../../assets/statesimg/mizoram.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/mizoram/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.mizoram.drmindia"
+  },
+  {
+    "id": 13,
+    "statename": "Sikkim",
+    "iconsvg": "../../assets/statesimg/sikkim.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/sikkim/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.sikkim.drmindia"
+  },
+  {
+    "id": 14,
+    "statename": "UttaraKhand",
+    "iconsvg": "../../assets/statesimg/uttarkhand.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/uttarakhand/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.uttarakhand.drmindia"
+  },
+  {
+    "id": 15,
+    "statename": "Tripura",
+    "iconsvg": "../../assets/statesimg/tripura.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/tripura/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.tripura.drmindia"
+  },
+  {
+    "id": 16,
+    "statename": "Chandigarh",
+    "iconsvg": "../../assets/statesimg/chandigarh.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/chandigarh/login.html",
+    "applink": "NULL"
+  },
+  {
+    "id": 17,
+    "statename": "Bihar",
+    "iconsvg": "../../assets/statesimg/bihar.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/bihar/login.html",
+    "applink": "NULL"
+  },
+  {
+    "id": 18,
+    "statename": "Kerala",
+    "iconsvg": "../../assets/statesimg/kerala.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/kerala/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.kerala.drmindia"
+  },
+  {
+    "id": 19,
+    "statename": "Haryana",
+    "iconsvg": "../../assets/statesimg/haryana.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/haryana/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.haryana.drmindia"
+  },
+  {
+    "id": 20,
+    "statename": "Andaman",
+    "iconsvg": "../../assets/statesimg/andaman.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/andaman/login.html",
+    "applink": "NULL"
+  },
+  {
+    "id": 21,
+    "statename": "Ladakh",
+    "iconsvg": "../../assets/statesimg/lad.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/ladakh/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.ladakh.drmindia"
+  },
+  {
+    "id": 22,
+    "statename": "Punjab",
+    "iconsvg": "../../assets/statesimg/punjab.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/punjab/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.punjab.drmindia"
+  },
+  {
+    "id": 23,
+    "statename": "Meghalaya",
+    "iconsvg": "../../assets/statesimg/meghalaya.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/meghalaya/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.meghalaya.drmindia"
+  },
+  {
+    "id": 24,
+    "statename": "Telangana",
+    "iconsvg": "../../assets/statesimg/telangana.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/telangana/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.telangana.drmindia"
+  },
+  {
+    "id": 25,
+    "statename": "Gujarat",
+    "iconsvg": "../../assets/statesimg/gujarat.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/gujarat/login.html",
+    "applink": "NULL"
+  },
+  {
+    "id": 26,
+    "statename": "Lakshadweep",
+    "iconsvg": "../../assets/statesimg/lak.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/lakshadweep/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.lakshadweep.drmindia"
+  },
+  {
+    "id": 27,
+    "statename": "Manipur",
+    "iconsvg": "../../assets/statesimg/manipur.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/manipur/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.manipur.drmindia"
+  },
+  {
+    "id": 28,
+    "statename": "Odisha",
+    "iconsvg": "../../assets/statesimg/odisha.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/odisha/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.odisha.drmindia"
+  },
+  {
+    "id": 29,
+    "statename": "Tamilnadu",
+    "iconsvg": "../../assets/statesimg/tamilnadu.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/tamilnadu/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.tamilnadu.drmindia"
+  },
+  {
+    "id": 30,
+    "statename": "Daman",
+    "iconsvg": "../../assets/statesimg/Dadra and Nagar Haveli and Daman and Diu.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/daman/login.html",
+    "applink": ""
+  },
+  {
+    "id": 31,
+    "statename": "Karnataka",
+    "iconsvg": "../../assets/statesimg/karnataka.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/karnataka/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.karnataka.drmindia"
+  },
+  {
+    "id": 32,
+    "statename": "Puducherry",
+    "iconsvg": "../../assets/statesimg/puducherry.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/puducherry/login.html",
+    "applink": "NULL"
+  },
+  {
+    "id": 33,
+    "statename": "Delhi",
+    "iconsvg": "../../assets/statesimg/delhi.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/delhi/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.delhi.drmindia"
+  },
+  {
+    "id": 34,
+    "statename": "Westbengal",
+    "iconsvg": "../../assets/statesimg/westbengal.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/westbengal/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=com.kittydev.savewestbengal"
+  },
+  {
+    "id": 35,
+    "statename": "Assam",
+    "iconsvg": "../../assets/statesimg/assam.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/assam/login.html",
+    "applink": "NULL"
+  },
+  {
+    "id": 36,
+    "statename": "Manipur",
+    "iconsvg": "../../assets/statesimg/manipur.svg",
+    "weblink": "https://climatesmartcity.com/drm/in_state/manipur/login.html",
+    "applink": "https://play.google.com/store/apps/details?id=safe.manipur.drmindia"
+  }
+]
